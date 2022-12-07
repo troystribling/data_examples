@@ -5,7 +5,7 @@ Automat==0.6.0
 bleach==2.0.0
 boto==2.47.0
 bz2file==0.98
-certifi==2017.4.17
+certifi==2022.12.7
 chardet==3.0.4
 configparser==3.5.0
 constantly==15.1.0
